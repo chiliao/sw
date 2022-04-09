@@ -60,7 +60,7 @@
     "lodash": "^4.17.5",
     "lru_map": "^0.3.3",
     "material-design-icons": "^3.0.1",
-    "moment": "^2.22.0",
+    "moment": "^2.29.2",
     "ng2-charts": "^1.6.0",
     "oboe": "^2.1.4",
     "plotly.js": "^1.35.2",
