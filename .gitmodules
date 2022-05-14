@@ -1,37 +1,4 @@
 [submodule "nic/p4-hlir"]
 	path = nic/p4-hlir
-	url = git@github.com:pensando/p4-hlir.git
-[submodule "nic/debug_cli/click_repl"]
-	path = nic/debug_cli/click_repl
-	url = git@github.com:pensando/click-repl
-[submodule "nic/third-party/libconfig"]
-	path = nic/third-party/libconfig
-	url = git@github.com:pensando/libconfig
-[submodule "nic/third-party/odp"]
-	path = nic/third-party/odp
-	url = git@github.com:pensando/odp
-[submodule "nic/third-party/ofp"]
-	path = nic/third-party/ofp
-	url = git@github.com:pensando/ofp
-[submodule "nic/buildroot"]
-	path = nic/buildroot
-	url = git@github.com:/pensando/buildroot
-[submodule "platform/src/third-party/rdma/qperf"]
-	path = platform/src/third-party/rdma/qperf
-	url = git@github.com:pensando/qperf.git
-[submodule "platform/src/third-party/rdma/perftest"]
-	path = platform/src/third-party/rdma/perftest
-	url = git@github.com:pensando/perftest.git
-[submodule "platform/src/third-party/rdma/krping"]
-	path = platform/src/third-party/rdma/krping
-	url = git@github.com:pensando/krping.git
-[submodule "platform/src/third-party/rdma/rdma-core"]
-	path = platform/src/third-party/rdma/rdma-core
-	url = git@github.com:pensando/rdma-core.git
-[submodule "nic/third-party/metaswitch"]
-	path = nic/third-party/metaswitch
-	url = git@github.com:pensando/metaswitch.git
-[submodule "nic/sdk/pen-dpdk"]
-	path = nic/sdk/pen-dpdk
-	url = git@github.com:/pensando/pen-dpdk.git
+	url = git@github.com:p4lang/p4-hlir.git
 
